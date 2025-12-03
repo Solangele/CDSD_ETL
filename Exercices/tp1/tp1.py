@@ -6,6 +6,7 @@ df1 = pd.read_csv('magasin_A.csv')
 df2 = pd.read_csv('magasin_B.csv')
 df3 = pd.read_csv('magasin_C.csv')
 
+
 # 2. Ajouter une colonne `magasin` (A, B ou C)
 df1['magasin'] = 'A'
 df2['magasin'] = 'B'
@@ -42,3 +43,4 @@ with pd.ExcelWriter('Rapport.xlsx') as writer:
     ventes_magasin.to_excel(writer, sheet_name='Par magasin', index=False)
     ventes_vendeur.to_excel(writer, sheet_name='Par vendeur', index=False)
     ventes_produit.to_excel(writer, sheet_name='Top produits', index=False)
+
