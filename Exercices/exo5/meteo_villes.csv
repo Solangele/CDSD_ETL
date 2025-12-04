@@ -1,0 +1,11 @@
+ville,temperature,ressenti,humidite,description
+Tourcoing,7.47,4.37,92,nuageux
+Lille,7.5,4.4,92,nuageux
+Paris,8.96,6.92,86,ciel dégagé
+Agde,10.53,9.73,80,ciel dégagé
+Versailles,8.36,5.93,88,ciel dégagé
+Strasbourg,5.03,3.34,87,bruine légère
+Brest,5.98,4.51,93,brume
+Lyon,2.29,0.58,97,couvert
+Bordeaux,9.97,7.5,86,partiellement nuageux
+Mulhouse,5.69,2.94,78,ciel dégagé

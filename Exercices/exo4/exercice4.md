@@ -4,6 +4,7 @@
 **Objectif** : Analyser les données des pays
 
 **Tâches**
+
 1. Récupérer tous les pays d'Europe
 2. Créer un DataFrame avec : nom, capitale, population, superficie
 3. Calculer la densité de population (population / superficie)
